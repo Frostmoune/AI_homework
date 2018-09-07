@@ -1,0 +1,36 @@
+.div_center{
+    top:10%;
+    left:10%;
+    bottom:10%;
+    right:10%;
+    width:75%;
+    height:75%;
+    position: absolute;
+}
+
+.maze_table{
+    margin-top:40px;
+    margin-left:200px;
+    width:750px;
+    height:500px;
+    position: absolute;
+}
+
+.maze_button{
+    margin-top:530px;
+    width:120px;
+    height:45px;
+    position: relative;
+    background-color:yellowgreen;
+    font-size:30px;
+    font-family: "Time New Roman";
+    color:white;
+    border:None;
+    border-radius:15px;
+    cursor:pointer;
+}
+
+.maze_button:hover{
+    color:black;
+    background-color:white;
+}
