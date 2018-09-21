@@ -10,3 +10,7 @@
 - E02_slow.exe: 得到的是最短路径，但速度较慢  
 - E02_fast.exe: 得到的是并不是最短路径，但速度较快  
 **若要编译15puzzle.cpp，请开O3优化**  
+  
+### 03：用alpha-beta写黑白棋AI  
+- myOthello.cpp: 黑白棋AI代码  
+- myOthello.exe: 黑白棋AI的程序，分为人机对战和AI互相对战两种模式  
