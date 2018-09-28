@@ -14,3 +14,8 @@
 ### 03：用alpha-beta写黑白棋AI  
 - myOthello.cpp: 黑白棋AI代码  
 - myOthello.exe: 黑白棋AI的程序，分为人机对战和AI互相对战两种模式  
+  
+### 04：Forward checking解决Futoshiki  
+- Futoshiki.cpp：FC代码  
+- Futoshiki.exe: 直接输出结果  
+- E04_Futoshiki.pdf: 本次作业的报告  
