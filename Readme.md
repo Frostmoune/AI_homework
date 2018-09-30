@@ -19,3 +19,9 @@
 - Futoshiki.cpp：FC代码  
 - Futoshiki.exe: 直接输出结果  
 - E04_Futoshiki.pdf: 本次作业的报告  
+  
+### 05：用Prolog分析家谱  
+- Family.pl: 本次作业的prolog代码  
+- E05_Family.pdf：本次作业的报告  
+- testFamily.py：生成一个简单的家谱  
+- testFamily.pl：另一个简单的家谱  
