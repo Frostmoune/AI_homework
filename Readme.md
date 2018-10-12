@@ -25,3 +25,8 @@
 - E05_Family.pdf：本次作业的报告  
 - testFamily.py：生成一个简单的家谱  
 - testFamily.pl：另一个简单的家谱  
+
+### 06：学习Prolog的Queries  
+- myRestaurants.pl：本次作业的prolog代码  
+- myQueries.txt：本次作业的答案  
+- E06_Queries.pdf：本次作业的报告  

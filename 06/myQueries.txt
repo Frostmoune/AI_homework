@@ -1,0 +1,21 @@
+下面是每个题目的答案
+若答案中有两条语句，则第一条是写在pl文件后面的，第二条是直接在prolog命令行输入的。
+
+1、setof(A, branch(A, beigang), Res).
+
+2、restaurantDistrict(Res, Dis):-restaurant(B, _, Res), branch(B, C), district(C, Dis).
+setof(A, (restaurantDistrict(yuecai, A), restaurantDistrict(xiangcai, A)), Res).
+
+3、lessBranch(A, Length):-setof(B, branch(A, B), L1), findall(C, (setof(D, branch(C, D), L2), C\=A, length(L1, E), length(L2, F), F < E), L3), length(L3, Length).
+findall(A, lessBranch(A, 0), Res).
+
+4、calArea(A):-setof(B, branch(B, A), L), length(L, E), E>=2.
+setof(A, calArea(A), Res).
+
+5、longerHistory(A, Length):-restaurant(A, L1, _), findall(C, (restaurant(C, L2, _), C\=A, L1 > L2), L3), length(L3, Length).
+setof(A, longerHistory(A, 0), Res).
+
+6、calBranch(A):-setof(B, branch(A, B), L), length(L, E), E>=10.
+setof(A, calBranch(A), Res).
+
+7.sameDistrict(A, B):-branch(A, C), branch(B, D), district(C, E), district(D, E), A\=B.
