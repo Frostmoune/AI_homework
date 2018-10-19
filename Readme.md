@@ -30,3 +30,7 @@
 - myRestaurants.pl：本次作业的prolog代码  
 - myQueries.txt：本次作业的答案  
 - E06_Queries.pdf：本次作业的报告  
+
+### 07：用PDDL语言解决规划问题  
+- E07_FF.pdf: 本次作业的报告  
+- .pddl: 本次作业的所有代码  
