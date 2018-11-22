@@ -50,3 +50,12 @@
 - adult.test: 测试集  
 - adult.names：数据集说明  
 **正确率约为83.957%**  
+
+### 11：C4.5决策树  
+- Tree.py: 代码  
+- E11.pdf: 本次作业的报告  
+- adult.data: 训练集  
+- adult.test: 测试集  
+- adult.names：数据集说明  
+- readme.txt: 运行说明  
+**正确率最高可以达到85.97%**  
