@@ -58,4 +58,17 @@
 - adult.test: 测试集  
 - adult.names：数据集说明  
 - readme.txt: 运行说明  
-**正确率最高可以达到85.97%**  
+**正确率最高可以达到85.97%**   
+
+### 12.EM算法解决GMM问题  
+- EM.py：代码  
+- E12.pdf: 报告  
+- data.txt: 数据集  
+  
+### 13.BP算法与审计网络  
+- myNN.py: 代码  
+- E13.pdf: 报告
+- horse.data: 训练集  
+- horse.test: 测试集  
+- horse.names：数据集说明 
+**准确率最高能达到77%，稳定在70%和72%**  
