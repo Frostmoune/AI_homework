@@ -80,3 +80,18 @@
 ### 15.实现CNN  
 - 文件说明和运行说明详见15/README.md  
 **cifar-10数据集上正确率约为55%**  
+
+### P01：伯克利AI作业（搜索和博弈）  
+- 代码详见multiagent和search  
+- 要用python2.7来运行  
+- 具体要求和运行说明详见P01_PacmanGame.pdf  
+
+### P02：GAC算法和Prolog  
+- GAC算法代码详见futoshiki_gac.cpp  
+- Prolog代码详见blocksworld.pl  
+- 具体要求和运行说明详见P02_CSP_KRR.pdf和Readme.txt    
+
+### P04：伯克利AI作业（强化学习）
+- 代码详见reinforcement  
+- 要用python2.7来运行  
+- 具体要求和运行说明详见P04_Reinforcement_Learning.pdf  
