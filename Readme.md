@@ -65,10 +65,18 @@
 - E12.pdf: 报告  
 - data.txt: 数据集  
   
-### 13.BP算法与审计网络  
+### 13.BP算法与神经网络  
 - myNN.py: 代码  
 - E13.pdf: 报告
 - horse.data: 训练集  
 - horse.test: 测试集  
-- horse.names：数据集说明 
+- horse.names：数据集说明   
 **准确率最高能达到77%，稳定在70%和72%**  
+
+### 14.用Q-learning算法写一个flappy bird的agent  
+- 只修改了bot.py  
+- E14.py：本次作业的报告  
+
+### 15.实现CNN  
+- 文件说明和运行说明详见15/README.md  
+**cifar-10数据集上正确率约为55%**  
